@@ -9,3 +9,6 @@ El siguiente ejercicio pidió cumplir con los siguientes lineamientos
 - Usar manejo de estados del framework o de packages externos para insertar objetos a la lista de menu.
 
 Gracias por ver.
+
+
+![1_zY_BLFanOTOBS0G3QD3FDA](https://github.com/user-attachments/assets/a07b8686-5bac-459e-9c3e-bb07dced3251)
