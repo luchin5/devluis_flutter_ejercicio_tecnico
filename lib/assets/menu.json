@@ -1,0 +1,21 @@
+{
+      "category": "Postres",
+      "items": [
+        {
+          "id": "e001",
+          "name": "Baton de chocolate",
+          "description": "Bombon de chocolate, relleno de licor de amaretto",
+          "price": 300,
+          "currency": "ARS",
+          "vegetarian": true
+        },
+        {
+          "id": "e002",
+          "name": "Helado de guanábana",
+          "description": "Helado hecho de guanábana, con ralladura de coco.",
+          "price": 400,
+          "currency": "ARS",
+          "vegetarian": true
+        }
+      ]
+    }

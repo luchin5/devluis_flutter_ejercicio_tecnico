@@ -1,0 +1,40 @@
+{
+  "id": "rest_001",
+  "name": "La Buena Mesa",
+  "description": "Restaurante de cocina fusión latinoamericana con un ambiente acogedor.",
+  "phone": "+54 11 5555-1234",
+  "email": "contacto@asd.com",
+  "website": "https://asd.com",
+  "opening_hours": {
+    "monday": "12:00-23:00",
+    "tuesday": "12:00-23:00",
+    "wednesday": "12:00-23:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-00:00",
+    "saturday": "12:00-00:00",
+    "sunday": "12:00-22:00"
+  },
+  "menu": [
+    {
+      "category": "Entradas",
+      "items": [
+        {
+          "id": "e001",
+          "name": "Empanadas criollas",
+          "description": "Empanadas al horno rellenas de carne cortada a cuchillo.",
+          "price": 1500,
+          "currency": "ARS",
+          "vegetarian": false
+        },
+        {
+          "id": "e002",
+          "name": "Provoleta al horno",
+          "description": "Queso provolone con orégano y aceite de oliva.",
+          "price": 1900,
+          "currency": "ARS",
+          "vegetarian": true
+        }
+      ]
+    }
+  ]
+}
