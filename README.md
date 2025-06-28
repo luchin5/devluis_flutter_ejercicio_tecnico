@@ -1,16 +1,11 @@
-# alacarta
+# Ejercicio técnico de Flutter
 
-A new Flutter project.
+El siguiente ejercicio pidió cumplir con los siguientes lineamientos
 
-## Getting Started
+- Parsear los modelos del JSON en modelos.
+- Implementar un adaptador(servicio) para consultar una lista del JSON.
+. Diseñar una interfaz responsiva para mostrar el JSON
+- La interfaz debe cargar de forma asíncrona esperando un tiempo de 5s.
+- Usar manejo de estados del framework o de packages externos para insertar objetos a la lista de menu.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gracias por ver.
